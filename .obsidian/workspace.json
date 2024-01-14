@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "4e9bcafc6845a314",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9524b26eb0d3a68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab0441bd835ee37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f920214f1ef9d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0aa18abc3c266f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf2d7b8456feea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3daca775771788c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "541c76ae66a6cb3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01ca860d77dc260d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a20248ef7e7b577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a67eafaf14e015dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27b8374c19cfd9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35a8d3d2ac7d6ae6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5216d16c98de26b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ecf2d7b8456feea1",
+  "lastOpenFiles": [
+    "07. GitHub - Deep Dive.md",
+    "06. Git - Deep Dive.md",
+    "05. Git and GitHub.md",
+    "04. Command Line.md",
+    "03. Role of Version Control Systems.md",
+    "01. Version Control.md",
+    "02. Types of Version Controlling Systems.md",
+    "2024-01-11.md",
+    "Untitled.canvas"
+  ]
+}
